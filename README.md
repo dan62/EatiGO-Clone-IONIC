@@ -38,11 +38,11 @@ The following are some functions our application aims to solve
 
 * Splash screen with timer
 * Registration of a user linked to a Firebase database (in future will only make use of a custom REST api)
-* Custom Navigation sidebar
+* Custom Navigation tabbed bar
 * All data to be displayed from database by making calls to a custom api
 * Automatic price rises and drops on discounted resturaunts
 
-I am planning to make a duplicate of this existing application, so generally the scope isbased on this existing [application](https://play.google.com/store/apps/details?id=com.eatigo&hl=en)
+I am planning to make a duplicate of this existing application, so generally the scope is based on this existing [application](https://play.google.com/store/apps/details?id=com.eatigo&hl=en)
 
 The following are images of current Activities that have been developed to date:
 
